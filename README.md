@@ -17,3 +17,7 @@ yarn start:dev
 ```
 http://localhost:3000/api/seed
 ```
+URL PROJECT
+```
+https://roadmap.sh/projects/blogging-platform-api
+```
